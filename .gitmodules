@@ -1,0 +1,3 @@
+[submodule "my-submodule-folder"]
+	path = my-submodule-folder
+	url = https://github.com/ragnariotch-ai/hexlet-js
